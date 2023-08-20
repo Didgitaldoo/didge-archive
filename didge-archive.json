@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Malveira",
+        "stl-files": [
+            "stl-files/malveira.stl.zip"
+        ],
+        "blender-files": [
+            "blender-files/malveira.blend.zip"
+        ],
+        "audio-samples": {
+            "hand": "audio-samples/malverira-hand1.wav",
+            "neutral-sound": "audio-samples/malveira-neutral-sound.wav",
+            "short-song": "audio-samples/malveira-short-song.wav"
+        },
+        "geometry": "geometries/malveira.json"
+    },
+    {
+        "name": "Arusha",
+        "stl-files": [
+            "stl-files/arusha.zip"
+        ],
+        "blender-files": [
+            "blender-files/arusha.blend.zip"
+        ],
+        "audio-samples": {
+            "hand": "audio-samples/arusha-hand1.wav",
+            "neutral-sound": "audio-samples/arusha-neutral-sound.wav",
+            "short-song": "audio-samples/arusha-short-song.wav"
+        },
+        "geometry": "geometries/arusha.json"
+    },
+    {
+        "name": "Nazare",
+        "stl-files": [
+            "stl-files/nazare.stl.zip"
+        ],
+        "blender-files": [
+            "blender-files/nazare.blend.zip"
+        ],
+        "audio-samples": {
+            "hand": "audio-samples/nazare-hand1.wav",
+            "neutral-sound": "audio-samples/nazare-neutral-sound.wav",
+            "short-song": "audio-samples/nazare-short-song.wav"
+        },
+        "geometry": "geometries/nazare.json"
+    },
+    {
+        "name": "Kizimkazi",
+        "stl-files": ["stl-files/kizimkazi.stl.zip"],
+        "blender-files": ["blender-files/kizimkazi.blend.zip"],
+        "audio-samples": {
+            "hand": "audio-samples/kizimkazi-hand1.wav",
+            "neutral-sound": "audio-samples/kizimkazi-neutral-sound.wav",
+            "short-song": "audio-samples/kizimkazi-short-song.wav"
+        },
+        "geometry": "geometries/kizimkazi.json"
+    },
+    {
+        "name": "Open Didgeridoo",
+        "stl-files": [
+            "stl-files/opendidge.stl.zip"
+        ],
+        "blender-files": [],
+        "audio-samples": {
+            "hand": "audio-samples/opendidge-hand1.wav",
+            "neutral-sound": "audio-samples/opendidge-neutral-sound.wav",
+            "short-song": "audio-samples/opendidge-short-song.wav"
+        },
+        "geometry": "geometries/opendidgeridoo.json"
+    }
+]
