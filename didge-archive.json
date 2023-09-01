@@ -8,7 +8,8 @@
             "blender-files/malveira.blend.zip"
         ],
         "audio-samples": {
-            "hand": "audio-samples/malverira-hand1.wav",
+            "hand-open": "audio-samples/malverira-hand1.wav",
+            "hand-closed": "audio-samples/malveira-hand2.wav",
             "neutral-sound": "audio-samples/malveira-neutral-sound.wav",
             "short-song": "audio-samples/malveira-short-song.wav"
         },
@@ -23,7 +24,8 @@
             "blender-files/arusha.blend.zip"
         ],
         "audio-samples": {
-            "hand": "audio-samples/arusha-hand1.wav",
+            "hand-open": "audio-samples/arusha-hand1.wav",
+            "hand-closed": "audio-samples/arusha-hand2.wav",
             "neutral-sound": "audio-samples/arusha-neutral-sound.wav",
             "short-song": "audio-samples/arusha-short-song.wav"
         },
@@ -38,7 +40,8 @@
             "blender-files/nazare.blend.zip"
         ],
         "audio-samples": {
-            "hand": "audio-samples/nazare-hand1.wav",
+            "hand-open": "audio-samples/nazare-hand1.wav",
+            "hand-closed": "audio-samples/nazare-hand2.wav",
             "neutral-sound": "audio-samples/nazare-neutral-sound.wav",
             "short-song": "audio-samples/nazare-short-song.wav"
         },
@@ -49,7 +52,8 @@
         "stl-files": ["stl-files/kizimkazi.stl.zip"],
         "blender-files": ["blender-files/kizimkazi.blend.zip"],
         "audio-samples": {
-            "hand": "audio-samples/kizimkazi-hand1.wav",
+            "hand-open": "audio-samples/kizimkazi-hand1.wav",
+            "hand-closed": "audio-samples/kizimkazi-hand2.wav",
             "neutral-sound": "audio-samples/kizimkazi-neutral-sound.wav",
             "short-song": "audio-samples/kizimkazi-short-song.wav"
         },
@@ -62,7 +66,8 @@
         ],
         "blender-files": [],
         "audio-samples": {
-            "hand": "audio-samples/opendidge-hand1.wav",
+            "hand-open": "audio-samples/opendidge-hand1.wav",
+            "hand-closed": "audio-samples/opendidge-hand2.wav",
             "neutral-sound": "audio-samples/opendidge-neutral-sound.wav",
             "short-song": "audio-samples/opendidge-short-song.wav"
         },

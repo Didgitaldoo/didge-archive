@@ -22,7 +22,7 @@ for didge in json.load(open("didge-archive.json", "r")):
         if type(didge[attr]) != types[attr]:
             print(f"Attribute '{attr}' of didge '{didge['name']}' should be {types[attr]}, is {type(didge[attr])}")
 
-        for attr in ("hand", "neutral-sound", "short-song"):
+        for attr in ("hand-closed", "neutral-sound", "short-song"):
             if not attr in didge["audio-samples"]:
                 print(f"Missing attribute '{attr}' in didge {didge['name']}/audio-samples")
             
