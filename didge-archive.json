@@ -11,9 +11,10 @@
             "hand-open": "audio-samples/malverira-hand1.wav",
             "hand-closed": "audio-samples/malveira-hand2.wav",
             "neutral-sound": "audio-samples/malveira-neutral-sound.wav",
-            "short-song": "audio-samples/malveira-short-song.wav"
+            "song": "audio-samples/malveira-song.wav"
         },
-        "geometry": "geometries/malveira.json"
+        "geometry": "geometries/malveira.json",
+        "shape": "straight"
     },
     {
         "name": "Arusha",
@@ -27,9 +28,10 @@
             "hand-open": "audio-samples/arusha-hand1.wav",
             "hand-closed": "audio-samples/arusha-hand2.wav",
             "neutral-sound": "audio-samples/arusha-neutral-sound.wav",
-            "short-song": "audio-samples/arusha-short-song.wav"
+            "song": "audio-samples/arusha-song.wav"
         },
-        "geometry": "geometries/arusha.json"
+        "geometry": "geometries/arusha.json",
+        "shape": "saxodidge"
     },
     {
         "name": "Nazare",
@@ -43,9 +45,10 @@
             "hand-open": "audio-samples/nazare-hand1.wav",
             "hand-closed": "audio-samples/nazare-hand2.wav",
             "neutral-sound": "audio-samples/nazare-neutral-sound.wav",
-            "short-song": "audio-samples/nazare-short-song.wav"
+            "song": "audio-samples/nazare-song.wav"
         },
-        "geometry": "geometries/nazare.json"
+        "geometry": "geometries/nazare.json",
+        "shape": "straight"
     },
     {
         "name": "Kizimkazi",
@@ -55,12 +58,13 @@
             "hand-open": "audio-samples/kizimkazi-hand1.wav",
             "hand-closed": "audio-samples/kizimkazi-hand2.wav",
             "neutral-sound": "audio-samples/kizimkazi-neutral-sound.wav",
-            "short-song": "audio-samples/kizimkazi-short-song.wav"
+            "song": "audio-samples/kizimkazi-song.wav"
         },
-        "geometry": "geometries/kizimkazi.json"
+        "geometry": "geometries/kizimkazi.json",
+        "shape": "straight"
     },
     {
-        "name": "Open Didgeridoo",
+        "name": "Open Didgeridoo Saxo",
         "stl-files": [
             "stl-files/opendidge.stl.zip"
         ],
@@ -69,8 +73,45 @@
             "hand-open": "audio-samples/opendidge-hand1.wav",
             "hand-closed": "audio-samples/opendidge-hand2.wav",
             "neutral-sound": "audio-samples/opendidge-neutral-sound.wav",
-            "short-song": "audio-samples/opendidge-short-song.wav"
+            "song": "audio-samples/opendidge-song.wav"
         },
-        "geometry": "geometries/opendidgeridoo.json"
+        "geometry": "geometries/opendidgeridoo.json",
+        "shape": "saxodidge"
+    },
+    {
+        "name": "Open Didgeridoo Straight",
+        "audio-samples": {
+            "neutral-sound": "audio-samples/opendidge-2-straight-short.wav",
+            "song": "audio-samples/opendidge-2-straight-long.wav"
+        },
+        "geometry": "geometries/opendidgeridoo.json",
+        "shape": "straight"
+    },
+    {
+        "name": "Tamaki1",
+        "audio-samples": {
+            "neutral-sound": "audio-samples/tamaki1-short.wav",
+            "song": "audio-samples/tamaki1-long.wav"
+        },
+        "geometry": "geometries/tamaki1.json",
+        "shape": "straight"
+    },
+    {
+        "name": "Tamaki2",
+        "audio-samples": {
+            "neutral-sound": "audio-samples/tamaki-2-short.wav",
+            "song": "audio-samples/tamaki-2-long.wav"
+        },
+        "geometry": "geometries/opendidgeridoo.json",
+        "shape": "straight"
+    },
+    {
+        "name": "Matema",
+        "audio-samples": {
+            "neutral-sound": "audio-samples/matema-short.wav",
+            "song": "audio-samples/matema-long.wav"
+        },
+        "geometry": "geometries/matema.json",
+        "shape": "straight"
     }
 ]
