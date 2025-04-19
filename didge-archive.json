@@ -90,7 +90,7 @@
         "geometry": "geometries/opendidgeridoo.json",
         "shape": "saxodidge",
         "images": ["images/open_didge.jpg"],
-        "description": "This Didgeridoo (key: D) was built after the [Open Didgeridoo](https://www.windproject.it/open-didgeridoo/) measurements by Andrea Ferroni.",
+        "description": "This Didgeridoo (key: D) was built after the [Open Didgeridoo](https:\/\/www.windproject.it\/open-didgeridoo\/) designed by [Andrea Ferroni]([http:\/\/www.andreaferroni.it\/)](https:\/\/www.andreaferroni.it\/).\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/Yjmut_38P04?si=S6LDNNXZ9iIpxcVf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
         "license": "[Open Didgeridoo License](https://www.windproject.it/open-didgeridoo/)",
         "thingiverse": "https://www.thingiverse.com/thing:7014774"
     },
