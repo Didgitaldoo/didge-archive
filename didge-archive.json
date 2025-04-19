@@ -11,10 +11,12 @@
             "hand-open": "audio-samples/malverira-hand1.wav",
             "hand-closed": "audio-samples/malveira-hand2.wav",
             "neutral-sound": "audio-samples/malveira-neutral-sound.wav",
-            "song": "audio-samples/malveira-song.wav"
+            "song": "audio-samples/malveira-short-song.wav"
         },
         "geometry": "geometries/malveira.json",
-        "shape": "straight"
+        "shape": "straight",
+        "images": ["images/malveira.png"],
+        "description": "Malveira is a Didge in F# that was designed after a Didgeridoo that I found in the internet and liked. I will write a blog article soon about it.\r\n\r\n[This is the youtube video of the original Didgeridoo which I used to guide the acoustic copy (black euca didge, starting at 3:29).](https:\/\/www.youtube.com\/watch?v=Ff0EH5s9P-0&t=212s)"
     },
     {
         "name": "Arusha",
@@ -28,10 +30,12 @@
             "hand-open": "audio-samples/arusha-hand1.wav",
             "hand-closed": "audio-samples/arusha-hand2.wav",
             "neutral-sound": "audio-samples/arusha-neutral-sound.wav",
-            "song": "audio-samples/arusha-song.wav"
+            "song": "audio-samples/arusha-short-song.wav"
         },
         "geometry": "geometries/arusha.json",
-        "shape": "saxodidge"
+        "shape": "saxodidge",
+        "images": ["images/arusha.jpg"],
+        "description": "Arusha (key: D) was designed as a didgeridoo with many toots that are well tuned. It is also loud and easy to play. I built it in a bend, saxodidge like shape. Unfortunately the tuning is a bit off. It is half-way between D and D#. Still, it is the main instrument that I use."
     },
     {
         "name": "Nazare",
@@ -45,7 +49,7 @@
             "hand-open": "audio-samples/nazare-hand1.wav",
             "hand-closed": "audio-samples/nazare-hand2.wav",
             "neutral-sound": "audio-samples/nazare-neutral-sound.wav",
-            "song": "audio-samples/nazare-song.wav"
+            "song": "audio-samples/nazare-short-song.wav"
         },
         "geometry": "geometries/nazare.json",
         "shape": "straight"
@@ -58,13 +62,13 @@
             "hand-open": "audio-samples/kizimkazi-hand1.wav",
             "hand-closed": "audio-samples/kizimkazi-hand2.wav",
             "neutral-sound": "audio-samples/kizimkazi-neutral-sound.wav",
-            "song": "audio-samples/kizimkazi-song.wav"
+            "song": "audio-samples/kizimkazi-short-song.wav"
         },
         "geometry": "geometries/kizimkazi.json",
         "shape": "straight"
     },
     {
-        "name": "Open Didgeridoo Saxo",
+        "name": "Open Didgeridoo",
         "stl-files": [
             "stl-files/opendidge.stl.zip"
         ],
@@ -73,10 +77,12 @@
             "hand-open": "audio-samples/opendidge-hand1.wav",
             "hand-closed": "audio-samples/opendidge-hand2.wav",
             "neutral-sound": "audio-samples/opendidge-neutral-sound.wav",
-            "song": "audio-samples/opendidge-song.wav"
+            "song": "audio-samples/opendidge-short-song.wav"
         },
         "geometry": "geometries/opendidgeridoo.json",
-        "shape": "saxodidge"
+        "shape": "saxodidge",
+        "images": ["images/open_didge.jpg"],
+        "description": "This Didgeridoo (key: D) was built after the [Open Didgeridoo](https://www.windproject.it/open-didgeridoo/) measurements by Andrea Ferroni."
     },
     {
         "name": "Open Didgeridoo Straight",
