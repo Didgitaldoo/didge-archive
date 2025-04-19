@@ -16,7 +16,8 @@
         "geometry": "geometries/malveira.json",
         "shape": "straight",
         "images": ["images/malveira.png"],
-        "description": "Malveira is a Didge in F# that was designed after a Didgeridoo that I found in the internet and liked. I will write a blog article soon about it.\r\n\r\n[This is the youtube video of the original Didgeridoo which I used to guide the acoustic copy (black euca didge, starting at 3:29).](https:\/\/www.youtube.com\/watch?v=Ff0EH5s9P-0&t=212s)"
+        "description": "Malveira is a Didge in F# that was designed after a Didgeridoo that I found in the internet and liked. I will write a blog article soon about it.\r\n\r\n[This is the youtube video of the original Didgeridoo which I used to guide the acoustic copy (black euca didge, starting at 3:29).](https:\/\/www.youtube.com\/watch?v=Ff0EH5s9P-0&t=212s)",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
     },
     {
         "name": "Arusha",
@@ -35,7 +36,8 @@
         "geometry": "geometries/arusha.json",
         "shape": "saxodidge",
         "images": ["images/arusha.jpg"],
-        "description": "Arusha (key: D) was designed as a didgeridoo with many toots that are well tuned. It is also loud and easy to play. I built it in a bend, saxodidge like shape. Unfortunately the tuning is a bit off. It is half-way between D and D#. Still, it is the main instrument that I use."
+        "description": "Arusha (key: D) was designed as a didgeridoo with many toots that are well tuned. It is also loud and easy to play. I built it in a bend, saxodidge like shape. Unfortunately the tuning is a bit off. It is half-way between D and D#. Still, it is the main instrument that I use.",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
     },
     {
         "name": "Nazare",
@@ -52,7 +54,9 @@
             "song": "audio-samples/nazare-short-song.wav"
         },
         "geometry": "geometries/nazare.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
     },
     {
         "name": "Kizimkazi",
@@ -65,7 +69,9 @@
             "song": "audio-samples/kizimkazi-short-song.wav"
         },
         "geometry": "geometries/kizimkazi.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
     },
     {
         "name": "Open Didgeridoo",
@@ -82,7 +88,8 @@
         "geometry": "geometries/opendidgeridoo.json",
         "shape": "saxodidge",
         "images": ["images/open_didge.jpg"],
-        "description": "This Didgeridoo (key: D) was built after the [Open Didgeridoo](https://www.windproject.it/open-didgeridoo/) measurements by Andrea Ferroni."
+        "description": "This Didgeridoo (key: D) was built after the [Open Didgeridoo](https://www.windproject.it/open-didgeridoo/) measurements by Andrea Ferroni.",
+        "license": "[Open Didgeridoo License](https://www.windproject.it/open-didgeridoo/)"
     },
     {
         "name": "Open Didgeridoo Straight",
@@ -91,7 +98,8 @@
             "song": "audio-samples/opendidge-2-straight-long.wav"
         },
         "geometry": "geometries/opendidgeridoo.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Open Didgeridoo License](https://www.windproject.it/open-didgeridoo/)"
     },
     {
         "name": "Tamaki1",
@@ -100,7 +108,9 @@
             "song": "audio-samples/tamaki1-long.wav"
         },
         "geometry": "geometries/tamaki1.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
     },
     {
         "name": "Tamaki2",
@@ -109,7 +119,9 @@
             "song": "audio-samples/tamaki-2-long.wav"
         },
         "geometry": "geometries/opendidgeridoo.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+
     },
     {
         "name": "Matema",
@@ -118,6 +130,7 @@
             "song": "audio-samples/matema-long.wav"
         },
         "geometry": "geometries/matema.json",
-        "shape": "straight"
+        "shape": "straight",
+        "license": "[Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
     }
 ]
