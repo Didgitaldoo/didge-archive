@@ -1,6 +1,8 @@
 [
     {
         "name": "Malveira",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "stl-files": [
             "stl-files/malveira.stl.zip"
         ],
@@ -22,6 +24,8 @@
     },
     {
         "name": "Arusha",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "stl-files": [
             "stl-files/arusha.zip"
         ],
@@ -43,6 +47,8 @@
     },
     {
         "name": "Nazare",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "stl-files": [
             "stl-files/nazare.stl.zip"
         ],
@@ -62,6 +68,8 @@
     },
     {
         "name": "Kizimkazi",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "stl-files": ["stl-files/kizimkazi.stl.zip"],
         "blender-files": ["blender-files/kizimkazi.blend.zip"],
         "audio-samples": {
@@ -77,6 +85,8 @@
     },
     {
         "name": "Open Didgeridoo",
+        "creator": "Andrea Ferroni",
+        "uploader": "Jan Nehring",
         "stl-files": [
             "stl-files/opendidge.stl.zip"
         ],
@@ -96,6 +106,8 @@
     },
     {
         "name": "Open Didgeridoo Straight",
+        "creator": "Andrea Ferroni",
+        "uploader": "Jan Nehring",
         "audio-samples": {
             "neutral-sound": "audio-samples/opendidge-2-straight-short.wav",
             "song": "audio-samples/opendidge-2-straight-long.wav"
@@ -106,6 +118,8 @@
     },
     {
         "name": "Tamaki1",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "audio-samples": {
             "neutral-sound": "audio-samples/tamaki1-short.wav",
             "song": "audio-samples/tamaki1-long.wav"
@@ -117,6 +131,8 @@
     },
     {
         "name": "Tamaki2",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "audio-samples": {
             "neutral-sound": "audio-samples/tamaki-2-short.wav",
             "song": "audio-samples/tamaki-2-long.wav"
@@ -128,6 +144,8 @@
     },
     {
         "name": "Matema",
+        "creator": "Jan Nehring",
+        "uploader": "Jan Nehring",
         "audio-samples": {
             "neutral-sound": "audio-samples/matema-short.wav",
             "song": "audio-samples/matema-long.wav"
